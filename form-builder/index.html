@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Builder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Form Builder</h2>
+  <div class="form-container">
+    <form id="userForm">
+      <input type="text" id="name" placeholder="Enter your name" required>
+      <input type="email" id="email" placeholder="Enter your email" required>
+      <input type="number" id="age" placeholder="Enter your age">
+      <button type="submit">Add Data</button>
+    </form>
+
+    <h3>Collected Data</h3>
+    <pre id="output">[]</pre>
+    <button id="downloadBtn">Download JSON</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

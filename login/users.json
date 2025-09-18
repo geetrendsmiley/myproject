@@ -1,0 +1,12 @@
+[
+  { "username": "john123", "password": "pass123" },
+  { "username": "alice99", "password": "alicepw" },
+  { "username": "mike007", "password": "secret007" },
+  { "username": "geetrend21", "password": "geetrendpw" },
+  { "username": "akindegeorge", "password": "akindepw" },
+  { "username": "sarah2024", "password": "sarahpw" },
+  { "username": "david_smith", "password": "davidpw" },
+  { "username": "linda_w", "password": "lindapw" },
+  { "username": "charlie_b", "password": "charliepw" },
+  { "username": "emma_jones", "password": "emmapw" }
+]
