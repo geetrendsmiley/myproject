@@ -49,3 +49,11 @@ h2 {
 .prev:hover, .next:hover {
   background: rgba(0,0,0,0.8);
 }
+.home-button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  font-size: 14px;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 5px;
+}
